@@ -1,4 +1,4 @@
-# EnhancedDirFuzzer
+# DirFuzzer
 
 EnhancedDirFuzzer adalah alat **directory and file fuzzing** yang powerful dan fleksibel untuk menemukan direktori, file, dan konten tersembunyi di sebuah website. Dibangun dengan Python, alat ini mendukung multi-threading, filter status HTTP, teknologi deteksi, export laporan HTML, dan banyak fitur lainnya.
 
@@ -21,14 +21,13 @@ EnhancedDirFuzzer adalah alat **directory and file fuzzing** yang powerful dan f
 ---
 
 ## Instalasi
-
 Pastikan Python 3.6+ sudah terpasang di sistem kamu.
 
 1. Clone repository ini:
 
 ```bash
-git clone https://github.com/username/enhanceddirfuzzer.git
-cd enhanceddirfuzzer
+git clone https://github.com/SatrioUN/fuzzing-dir
+cd fuzzing-dir
 Install dependency 
 pip install -r requirements.txt
 
